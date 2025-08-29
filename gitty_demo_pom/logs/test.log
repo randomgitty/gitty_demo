@@ -1,0 +1,32 @@
+2025-08-29 12:30:48 - [INFO] - [tests.conftest] - Setting up WebDriver
+2025-08-29 12:30:50 - [INFO] - [utils.json_reader] - Reading test data from C:\Users\aa\Desktop\automation\web_automation\gitty_demo_pom\test_data.json
+2025-08-29 12:31:00 - [INFO] - [tests.main] - Navigated to Facebook login page
+2025-08-29 12:31:00 - [INFO] - [tests.main] - Entering Facebook credentials
+2025-08-29 12:31:00 - [INFO] - [pages.fb_login_page] - Entering email: sheihaair@gmail.com
+2025-08-29 12:31:01 - [INFO] - [pages.fb_login_page] - Entering password
+2025-08-29 12:31:01 - [INFO] - [pages.fb_login_page] - Clicking login button
+2025-08-29 12:31:31 - [ERROR] - [tests.main] - Facebook Login Failed : Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7697f3d85+79397]
+	GetHandleVerifier [0x0x7ff7697f3de0+79488]
+	(No symbol) [0x0x7ff76959c0fa]
+	(No symbol) [0x0x7ff7695f2fd6]
+	(No symbol) [0x0x7ff7695f328c]
+	(No symbol) [0x0x7ff769646537]
+	(No symbol) [0x0x7ff76961b1df]
+	(No symbol) [0x0x7ff769643344]
+	(No symbol) [0x0x7ff76961af73]
+	(No symbol) [0x0x7ff7695e41b1]
+	(No symbol) [0x0x7ff7695e4f43]
+	GetHandleVerifier [0x0x7ff769abe1ed+3005069]
+	GetHandleVerifier [0x0x7ff769ab831d+2980797]
+	GetHandleVerifier [0x0x7ff769ad7e0d+3110573]
+	GetHandleVerifier [0x0x7ff76980d6de+184190]
+	GetHandleVerifier [0x0x7ff76981516f+215567]
+	GetHandleVerifier [0x0x7ff7697fc974+115220]
+	GetHandleVerifier [0x0x7ff7697fcb29+115657]
+	GetHandleVerifier [0x0x7ff7697e3268+11016]
+	BaseThreadInitThunk [0x0x7ff9da8de8d7+23]
+	RtlUserThreadStart [0x0x7ff9db9fc34c+44]
+
+2025-08-29 12:31:32 - [INFO] - [tests.conftest] - Tearing down WebDriver

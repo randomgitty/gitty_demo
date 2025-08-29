@@ -1,0 +1,12 @@
+{
+
+    "fb_credentials": {
+        "fb_email": "sheihaair@gmail.com",
+        "fb_password": "Test@12345"
+    },
+
+    "fb_login_page": [
+        {"url": "https://www.facebook.com/login.php", "title": "Facebook - log in or sign up"}
+    ]
+
+} 
